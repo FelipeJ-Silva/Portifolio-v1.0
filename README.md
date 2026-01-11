@@ -41,10 +41,10 @@ Se você quiser clonar e rodar este projeto em sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/FelipeJ-Silva/NOME-DO-REPO.git](https://github.com/FelipeJ-Silva/NOME-DO-REPO.git)
+$ git clone [https://github.com/FelipeJ-Silva/Portifolio-v1.0.git](https://github.com/FelipeJ-Silva/Portifolio-v1.0.git)
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd NOME-DO-REPO
+$ cd Portifolio-v1.0
 
 # Abra o arquivo index.html no seu navegador
 # OU use uma extensão como Live Server no VSCode
