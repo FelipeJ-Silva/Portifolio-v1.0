@@ -247,6 +247,8 @@ p {
     width: 100%;
     max-width: 1200px;
     padding: 80px 24px;
+    align-items: center;
+    display: inline;
 }
 
 
