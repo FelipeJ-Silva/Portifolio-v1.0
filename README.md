@@ -2,7 +2,7 @@
 
 > Um portfólio moderno desenvolvido para apresentar meus projetos e habilidades como Desenvolvedor Full Stack em transição de carreira.
 
-<img src="/Portifolio v1.0/img/print-portifolio.png" alt="Print Portifolio">
+<img src="/img/print-portifolio.png" alt="Print Portifolio">
 
 ## 🔗 Live Demo
 
